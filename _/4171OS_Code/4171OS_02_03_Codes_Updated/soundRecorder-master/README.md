@@ -1,0 +1,1 @@
+This is a sample Apache Cordova project which utilizes Apache Cordova Media APIs in order to create a simple sound recording application on Windows Phone 8, Android and iOS.

@@ -1,0 +1,20 @@
+The code of this book is now in GitHub:
+
+Chapter 1 Source code
+NA
+
+Chapter 2 and 3 Source code
+https://github.com/hazems/soundRecorder
+
+Chapter 4 and 5 Source code
+https://github.com/hazems/cordova-exhibition
+
+Chapter 6 Source code
+https://github.com/hazems/cordova-sms-plugin (Plugin code)
+https://github.com/hazems/cordova-sms-plugin-test (Plugin test code)
+
+Chapter 7 Source code
+https://github.com/hazems/cordova-js-unit-testing
+
+Chapter 8 Source code
+https://github.com/hazems/cordova-mega-app
